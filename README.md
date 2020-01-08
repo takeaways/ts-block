@@ -2,5 +2,7 @@
 
 ## 1. What is Typescript?
 
-1. 자바스크립의 슈퍼셋
-2. 자바스크립트에 + 타입만 붙여진 것 뿐!
+1. Super Set of Javascript
+2. Javascript + Type
+3. Strong Type Language
+4. Language and Library
