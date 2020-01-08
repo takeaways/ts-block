@@ -6,3 +6,7 @@
 2. Javascript + Type
 3. Strong Type Language
 4. Language and Library
+
+## 2. Directory Settings
+
+1. npm install -g
