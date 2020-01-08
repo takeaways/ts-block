@@ -9,4 +9,4 @@
 
 ## 2. Directory Settings
 
-1. npm install -g
+1. npm install typescript
