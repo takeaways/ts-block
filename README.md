@@ -9,4 +9,6 @@
 
 ## 2. Directory Settings
 
-1. npm install typescript
+1. npm install -g typescript
+2. tsc file.ts -> file.js
+3. tsc file.ts -w(watch)
